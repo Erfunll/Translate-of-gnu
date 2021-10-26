@@ -1,12 +1,13 @@
 
-عرفان اسکندری
+# عرفان اسکندری
 
 
 
-راهنما برای ترجمه‌ کردن در سایت رسمی گنو
+ *راهنما برای ترجمه‌ کردن در سایت رسمی گنو*
 
-
-سایت رسمی گنو با مقالات زیادی ترجمه شده است و بروز نگه داشتن انها پیچیده است که سازماندهی دقیق میخواهد.مترجمان در تیم ها گروهبندی میشوند,هر زبان برای یکی,هر تیم بطور معمول یک هماهنگ کننده دارد.با این حال بعضی زبانها هستند که هیچ تیمی ندارند و بعضی اوقات یک تیم هماهنگ کننده ندارد.
+```
+ ```
+ سایت رسمی گنو با مقالات زیادی ترجمه شده است و بروز نگه داشتن انها پیچیده است که سازماندهی دقیق میخواهد.مترجمان در تیم ها گروهبندی میشوند,هر زبان برای یکی,هر تیم بطور معمول یک هماهنگ کننده دارد.با این حال بعضی زبانها هستند که هیچ تیمی ندارند و بعضی اوقات یک تیم هماهنگ کننده ندارد.
 
 
 هماهنگ کنندگان تیم از ابزار های نرم افزاری برای بروز رسانی صفحات,بطور کارامد برای تغییرات جزیی استفاده میکنند.یکی از این ابزار ها,نرم افزاری بنام GNUNاست که نگهداری و پیگیری ترجمه هایی که باید به روز شوند را بسیار اسان میکند.این به طور موقت توسط مدیر فعلی ترجمه GNU یاور دوگانوف توسعه داده شد.
@@ -17,8 +18,8 @@
 به عنوان یک عضو تیم ، می توانید بدون اطلاع از GNUN در ترجمه مشارکت داشته باشید ، اما اگر نحوه استفاده از آن را بدانید می توانید در سطوح بیشتری کمک کنید.
 
 چه کسی می تواند کمک کند
-
-
+```
+```
 همه تیم ها همیشه به دنبال داوطلبان جدید هستند. در اصل ، وظیفه ای برای همه در فرایند ترجمه وجود دارد:ما به افرادی با مهارتهای زبانی خوب و همچنین افرادی با مهارتهای فنی خوب یا مایل به یادگیری برخی از مهارتهای فنی ساده نیاز داریم
     
 اگر درک عمیقی از زبان انگلیسی نوشتاری و تسلط زیاد به زبان مادری خود دارید ، مطمئناً می توانید به ترجمه بپردازید یا به خواندن اثبات بپردازید. نوشتن انگلیسی خوب ضروری نیست.
@@ -56,7 +57,7 @@
     نرم افزار رایگان چیست؟
      دسته بندی نرم افزارهای رایگان و غیر رایگان
     کلماتی که باید از آنها اجتناب کرد
-    1111111111111111111111111
+    
     
     
     برای تهیه ترجمه ای دقیق و وفادار به اصل ، باید با مفاهیم اولیه پروژه GNU و اصطلاحات خاصی که در gnu.org استفاده می شود آشنا باشید
@@ -106,9 +107,12 @@
     توجه می کند که کلیه متون منتشر شده به اصل وفادار بوده و اصطلاحات مورد استفاده در وب سایت ما را رعایت می کنند. همه ترجمه های ارسال شده توسط اعضای تیم یا توسط همکاران گاه به گاه توسط هماهنگ کننده تیم قبل از انتشار بررسی و تأیید می شوند.
 
     کاملاً می داند که سیستم ترجمه ما چگونه کار می کند و می داند چگونه از ابزارهایی که ما استفاده کرده ایم استفاده کند. در بخش زیر نحوه انجام آن را به طور مختصر توضیح می دهیم.
-    
-ابزارها
+ ```   
+ 
+*ابزارها*
 
+```
+```
 ما از پرونده های .po (Portable Object) برای پردازش و نگهداری ترجمه ها استفاده می کنیم. فایل .po شامل متن اصلی و ترجمه آن است که در پاراگراف ها تقسیم شده است. ما اینطوری انجام میدیم:
 
     وقتی مقاله جدیدی در وب سایت ما منتشر می شود ، GNUN ، برنامه ای که در ابتدای این صفحه ذکر کردیم ، یک فایل .pot (قالب .po) از آن مقاله تولید می کند. نام فایل .pot به .po تغییر نام می یابد. پس از ترجمه ، فایل .po متعهد می شود. سپس GNUN آن را بررسی می کند و اگر خطایی در کد وجود نداشته باشد ، نسخه ترجمه شده مقاله اصلی مقاله به طور خودکار در وب سایت منتشر می شود.
@@ -122,7 +126,7 @@
 دستورالعمل های زیر به طور مفصل روند ترجمه را توضیح می دهد که ما در بالا به طور خلاصه نشان دادیم. لازم است یک هماهنگ کننده آنها را بخواند و به خوبی با آنها آشنا شود:
 
 
-راهنمای مترجمان وب GNU
+*راهنمای مترجمان وب GNU*
     راهنمای GNUnited Nations (GNUN)
     راهنمای وب سایت GNU: برای داوطلبان
     راهنمای وب سایت GNU: برگه سبک HTML
@@ -132,48 +136,49 @@
 تیم ترجمه
 
 داوطلبان برای ایجاد تیم های جدید بیش از حد استقبال می شوند و در طول فرایند یادگیری به آنها کمک می شود.
+```
 
-در لیست زیر ، کد زبان با نام زبان و با نام هماهنگ کننده تیم دنبال می شود.
+# در لیست زیر ، کد زبان با نام زبان و با نام هماهنگ کننده تیم دنبال می شود.
 
-ar - عربی (Fayçal Alami - هماهنگ کننده جدید مورد نیاز است)
-az - آذربایجانی (ایگرر حسینوف - هماهنگ کننده جدید مورد نیاز است)
-bg - بلغاری (یاور دوگانوف - هماهنگ کننده جدید مورد نیاز است)
-bn - بنگالی (خاندکار مجاهدالاسلام - هماهنگ کننده جدید مورد نیاز است)
-    ca - Catalan (Miquel Puigpelat - New coordinator needed)
-    cs - Czech (František Kučera)
-    da - Danish (Erik Gravgaard - New coordinator needed)
-    de - German (Joerg Kohne)
-    el - Greek (Georgios Zarkadas - New coordinator needed)
-    eo - Esperanto (Ludovic Courtès - New coordinator needed)
-    es - Spanish (Dora Scilipoti, Javier Fernández Retenaga)
-    fa - Farsi/Persian (Amin Bandali)
-    fi - Finnish (Ville - New coordinator needed)
-    fr - French (Denis Barbier, Thérèse Godefroy)
-    he - Hebrew (New coordinator needed)
-    hr - Croatian (Martina Bebek - New coordinator needed)
-    id - Indonesian (New coordinator needed)
-    it - Italian (Andrea Pescetti)
-    ja - Japanese (NIIBE Yutaka)
-    ko - Korean (Jongmin Yoon)
-    ku - Kurdish (New coordinator needed)
-    ml - Malayalam (Aiswarya Kaitheri Kandoth)
-    nb - Norwegian Bokmål ( Andreas Tolfsen - New coordinator needed)
-    nl - Dutch (Tom Uijldert, Justin van Steijn)
-    nn - Norwegian Nynorsk (Andreas Tolfsen - New coordinator needed)
-    pl - Polish (Jan Owoc)
-    pt-br - Brazilian Portuguese (Rafael Fontenelle)
-    ro - Romanian (Tiberiu C. Turbureanu - New coordinator needed)
-    ru - Russian (Anatoly A. Kazantsev, Pavel Kharitonov)
-    sk - Slovak (Dominik Smatana - New coordinator needed)
-    sq - Albanian (Besnik Bleta)
-    sr - Serbian (Strahinya Radich)
-    ta - Tamil (Sri Ramadoss - New coordinator needed)
-    th - Thai (New coordinator needed)
-    tl - Tagalog (New coordinator needed)
-    tr - Turkish ( T. E. Kalaycı)
-    uk - Ukrainian (Andriy Bandura)
-    zh-cn - Simplified Chinese ( Xie Wensheng)
-    zh-tw - Traditional Chinese ( Po-Yen Huang)
-؟؟ - در دسترس نیست؟ پس این خط برای شما محفوظ است.
+|    ar -| عربی (Fayçal Alami - هماهنگ کننده جدید مورد نیاز است)|
+|    az -| آذربایجانی (ایگرر حسینوف - هماهنگ کننده جدید مورد نیاز است)|
+|    bg -| بلغاری (یاور دوگانوف - هماهنگ کننده جدید مورد نیاز است)|
+|    bn -| بنگالی (خاندکار مجاهدالاسلام - هماهنگ کننده جدید مورد نیاز است)|
+|    ca -| Catalan (Miquel Puigpelat - New coordinator needed)|
+|    cs -| Czech (František Kučera)|
+|    da -| Danish (Erik Gravgaard - New coordinator needed)|
+|    de -| German (Joerg Kohne)|
+|    el -| Greek (Georgios Zarkadas - New coordinator needed)|
+|    eo -| Esperanto (Ludovic Courtès - New coordinator needed)|
+|    es -| Spanish (Dora Scilipoti, Javier Fernández Retenaga)|
+|    fa -| Farsi/Persian (Amin Bandali)|
+|    fi -| Finnish (Ville - New coordinator needed)|
+|    fr -| French (Denis Barbier, Thérèse Godefroy)|
+|    he -| Hebrew (New coordinator needed)|
+|    hr -| Croatian (Martina Bebek - New coordinator needed)
+|    id -| Indonesian (New coordinator needed)|
+|    it -| Italian (Andrea Pescetti)|
+|    ja -| Japanese (NIIBE Yutaka)|
+|    ko -| Korean (Jongmin Yoon)|
+|    ku -| Kurdish (New coordinator needed)|
+|    ml -| Malayalam (Aiswarya Kaitheri Kandoth)|
+|    nb -| Norwegian Bokmål ( Andreas Tolfsen - New coordinator needed)|
+|    nl -| Dutch (Tom Uijldert, Justin van Steijn)|
+|    nn -| Norwegian Nynorsk (Andreas Tolfsen - New coordinator needed)|
+|    pl -| Polish (Jan Owoc)|
+|    pt-br -| Brazilian Portuguese (Rafael Fontenelle)|
+|    ro -| Romanian (Tiberiu C. Turbureanu - New coordinator needed)|
+|    ru -| Russian (Anatoly A. Kazantsev, Pavel Kharitonov)|
+|    sk -| Slovak (Dominik Smatana - New coordinator needed)|
+|    sq -| Albanian (Besnik Bleta)|
+|    sr -| Serbian (Strahinya Radich)|
+|    ta -| Tamil (Sri Ramadoss - New coordinator needed)|
+|    th -| Thai (New coordinator needed)|
+|    tl -| Tagalog (New coordinator needed)|
+|    tr -| Turkish ( T. E. Kalaycı)|
+|    uk -| Ukrainian (Andriy Bandura)|
+|    zh-cn -| Simplified Chinese ( Xie Wensheng)|
+|    zh-tw -| Traditional Chinese ( Po-Yen Huang)|
+>؟؟ - در دسترس نیست؟ پس این خط برای شما محفوظ است.
 
 Note: English (en) is a special case. The bulk of the site is written in English, which is the de-facto language of the GNU Project. We occasionally need to translate to English original documents written in other languages. It is best to notify the Team Coordinator of that language if you volunteer. If there is no team coordinator and you are willing to help with this, please contact <web-translators@gnu.org>. 
