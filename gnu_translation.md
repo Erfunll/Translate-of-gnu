@@ -140,45 +140,45 @@
 
 # در لیست زیر ، کد زبان با نام زبان و با نام هماهنگ کننده تیم دنبال می شود.
 
-|    ar -| عربی (Fayçal Alami - هماهنگ کننده جدید مورد نیاز است)|
-|    az -| آذربایجانی (ایگرر حسینوف - هماهنگ کننده جدید مورد نیاز است)|
-|    bg -| بلغاری (یاور دوگانوف - هماهنگ کننده جدید مورد نیاز است)|
-|    bn -| بنگالی (خاندکار مجاهدالاسلام - هماهنگ کننده جدید مورد نیاز است)|
-|    ca -| Catalan (Miquel Puigpelat - New coordinator needed)|
-|    cs -| Czech (František Kučera)|
-|    da -| Danish (Erik Gravgaard - New coordinator needed)|
-|    de -| German (Joerg Kohne)|
-|    el -| Greek (Georgios Zarkadas - New coordinator needed)|
-|    eo -| Esperanto (Ludovic Courtès - New coordinator needed)|
-|    es -| Spanish (Dora Scilipoti, Javier Fernández Retenaga)|
-|    fa -| Farsi/Persian (Amin Bandali)|
-|    fi -| Finnish (Ville - New coordinator needed)|
-|    fr -| French (Denis Barbier, Thérèse Godefroy)|
-|    he -| Hebrew (New coordinator needed)|
-|    hr -| Croatian (Martina Bebek - New coordinator needed)
-|    id -| Indonesian (New coordinator needed)|
-|    it -| Italian (Andrea Pescetti)|
-|    ja -| Japanese (NIIBE Yutaka)|
-|    ko -| Korean (Jongmin Yoon)|
-|    ku -| Kurdish (New coordinator needed)|
-|    ml -| Malayalam (Aiswarya Kaitheri Kandoth)|
-|    nb -| Norwegian Bokmål ( Andreas Tolfsen - New coordinator needed)|
-|    nl -| Dutch (Tom Uijldert, Justin van Steijn)|
-|    nn -| Norwegian Nynorsk (Andreas Tolfsen - New coordinator needed)|
-|    pl -| Polish (Jan Owoc)|
-|    pt-br -| Brazilian Portuguese (Rafael Fontenelle)|
-|    ro -| Romanian (Tiberiu C. Turbureanu - New coordinator needed)|
-|    ru -| Russian (Anatoly A. Kazantsev, Pavel Kharitonov)|
-|    sk -| Slovak (Dominik Smatana - New coordinator needed)|
-|    sq -| Albanian (Besnik Bleta)|
-|    sr -| Serbian (Strahinya Radich)|
-|    ta -| Tamil (Sri Ramadoss - New coordinator needed)|
-|    th -| Thai (New coordinator needed)|
-|    tl -| Tagalog (New coordinator needed)|
-|    tr -| Turkish ( T. E. Kalaycı)|
-|    uk -| Ukrainian (Andriy Bandura)|
-|    zh-cn -| Simplified Chinese ( Xie Wensheng)|
-|    zh-tw -| Traditional Chinese ( Po-Yen Huang)|
+|    ar | عربی (Fayçal Alami - هماهنگ کننده جدید مورد نیاز است)        |
+|    az | آذربایجانی (ایگرر حسینوف - هماهنگ کننده جدید مورد نیاز است)  |
+|    bg | بلغاری (یاور دوگانوف - هماهنگ کننده جدید مورد نیاز است)      |
+|    bn | بنگالی (خاندکار مجاهدالاسلام - هماهنگ کننده جدید مورد نیاز است)|
+|    ca | Catalan (Miquel Puigpelat - New coordinator needed)          |
+|    cs | Czech (František Kučera)                                     |
+|    da | Danish (Erik Gravgaard - New coordinator needed)             |
+|    de | German (Joerg Kohne)                                         |
+|    el | Greek (Georgios Zarkadas - New coordinator needed)           |
+|    eo | Esperanto (Ludovic Courtès - New coordinator needed)         |
+|    es | Spanish (Dora Scilipoti, Javier Fernández Retenaga)          |
+|    fa | Farsi/Persian (Amin Bandali)                                 |
+|    fi | Finnish (Ville - New coordinator needed)                     |
+|    fr | French (Denis Barbier, Thérèse Godefroy)                     |
+|    he | Hebrew (New coordinator needed)                              |
+|    hr | Croatian (Martina Bebek - New coordinator needed)            | 
+|    id | Indonesian (New coordinator needed)                          |
+|    it | Italian (Andrea Pescetti)                                    |
+|    ja | Japanese (NIIBE Yutaka)                                      |
+|    ko | Korean (Jongmin Yoon)                                        |
+|    ku | Kurdish (New coordinator needed)                             |
+|    ml | Malayalam (Aiswarya Kaitheri Kandoth)                        |
+|    nb | Norwegian Bokmål ( Andreas Tolfsen - New coordinator needed) |
+|    nl | Dutch (Tom Uijldert, Justin van Steijn)                      |
+|    nn | Norwegian Nynorsk (Andreas Tolfsen - New coordinator needed) |
+|    pl | Polish (Jan Owoc)                                            |        
+| pt-br | Brazilian Portuguese (Rafael Fontenelle)                     |
+|    ro | Romanian (Tiberiu C. Turbureanu - New coordinator needed)    |
+|    ru | Russian (Anatoly A. Kazantsev, Pavel Kharitonov)             |
+|    sk | Slovak (Dominik Smatana - New coordinator needed)            |
+|    sq | Albanian (Besnik Bleta)                                      |
+|    sr | Serbian (Strahinya Radich)                                   |
+|    ta | Tamil (Sri Ramadoss - New coordinator needed)                |
+|    th | Thai (New coordinator needed)                                |
+|    tl | Tagalog (New coordinator needed)                             |
+|    tr | Turkish ( T. E. Kalaycı)                                     |
+|    uk | Ukrainian (Andriy Bandura)                                   |
+| zh-cn | Simplified Chinese ( Xie Wensheng)                           |
+| zh-tw | Traditional Chinese ( Po-Yen Huang)                          |
 >؟؟ - در دسترس نیست؟ پس این خط برای شما محفوظ است.
 
 Note: English (en) is a special case. The bulk of the site is written in English, which is the de-facto language of the GNU Project. We occasionally need to translate to English original documents written in other languages. It is best to notify the Team Coordinator of that language if you volunteer. If there is no team coordinator and you are willing to help with this, please contact <web-translators@gnu.org>. 
