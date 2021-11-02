@@ -111,7 +111,7 @@
  
 ##ابزارها
 
-```
+
 ```
 ما از پرونده های .po (Portable Object) برای پردازش و نگهداری ترجمه ها استفاده می کنیم. فایل .po شامل متن اصلی و ترجمه آن است که در پاراگراف ها تقسیم شده است. ما اینطوری انجام میدیم:
 
@@ -180,7 +180,4 @@
 |uk|Ukrainian (Andriy Bandura)|
 |zh-cn|Simplified Chinese ( Xie Wensheng)|
 |zh-tw|Traditional Chinese ( Po-Yen Huang)|
->؟؟ - در دسترس نیست؟ پس این خط برای شما محفوظ است.
 
-Note: English (en) is a special case. The bulk of the site is written in English, which is the de-facto language of the GNU Project. We occasionally need to translate to English original documents written in other languages. It is best to notify the Team Coordinator of that language if you volunteer. If there is no team coordinator and you are willing to help with this, please contact <web-translators@gnu.org>. 
-</div>
