@@ -1,5 +1,5 @@
 
-‫‪<div‬‬ ‫>"‪dir="rtl‬‬
+‫‪<div dir="rtl">
 # عرفان اسکندری
 
 
@@ -182,4 +182,4 @@
 >؟؟ - در دسترس نیست؟ پس این خط برای شما محفوظ است.
 
 Note: English (en) is a special case. The bulk of the site is written in English, which is the de-facto language of the GNU Project. We occasionally need to translate to English original documents written in other languages. It is best to notify the Team Coordinator of that language if you volunteer. If there is no team coordinator and you are willing to help with this, please contact <web-translators@gnu.org>. 
-‫>‪</div‬‬
+</div>
