@@ -132,45 +132,45 @@
 
 
 # در لیست زیر ، کد زبان با نام زبان و با نام هماهنگ کننده تیم دنبال می شود.
-|1|2|
+|مخفف|زبان|
 |--|--|
 |ar|عربی (Fayçal Alami - هماهنگ کننده جدید مورد نیاز است)|
 |az|آذربایجانی (ایگرر حسینوف - هماهنگ کننده جدید مورد نیاز است)|
 |bg|بلغاری (یاور دوگانوف - هماهنگ کننده جدید مورد نیاز است)|
 |bn|بنگالی (خاندکار مجاهدالاسلام - هماهنگ کننده جدید مورد نیاز است)|
-|ca|Catalan (Miquel Puigpelat - New coordinator needed)|
-|cs|Czech (František Kučera)|
-|da|Danish (Erik Gravgaard - New coordinator needed)|
-|de|German (Joerg Kohne)|
-|el|Greek (Georgios Zarkadas - New coordinator needed)|
-|eo|Esperanto (Ludovic Courtès - New coordinator needed)|
-|es|Spanish (Dora Scilipoti, Javier Fernández Retenaga)|
-|fa|Farsi/Persian (Amin Bandali)|
-|fi|Finnish (Ville - New coordinator needed)|
-|fr|French (Denis Barbier, Thérèse Godefroy)|
-|he|Hebrew (New coordinator needed)|
-|hr|Croatian (Martina Bebek - New coordinator needed)| 
-|id|Indonesian (New coordinator needed)|
-|it|Italian (Andrea Pescetti)|
-|ja|Japanese (NIIBE Yutaka)|
-|ko|Korean (Jongmin Yoon)|
-|ku|Kurdish (New coordinator needed)|
-|ml|Malayalam (Aiswarya Kaitheri Kandoth)|
-|nb|Norwegian Bokmål ( Andreas Tolfsen - New coordinator needed)|
-|nl|Dutch (Tom Uijldert, Justin van Steijn)|
-|nn|Norwegian Nynorsk (Andreas Tolfsen - New coordinator needed)|
-|pl|Polish (Jan Owoc)|        
-|pt-br|Brazilian Portuguese (Rafael Fontenelle)|
-|ro|Romanian (Tiberiu C. Turbureanu - New coordinator needed)|
-|ru|Russian (Anatoly A. Kazantsev, Pavel Kharitonov)|
-|sk|Slovak (Dominik Smatana - New coordinator needed)|
-|sq|Albanian (Besnik Bleta)|
-|sr|Serbian (Strahinya Radich)|
-|ta|Tamil (Sri Ramadoss - New coordinator needed)|
-|th|Thai (New coordinator needed)|
-|tl|Tagalog (New coordinator needed)|
-|tr|Turkish ( T. E. Kalaycı)|
-|uk|Ukrainian (Andriy Bandura)|
-|zh-cn|Simplified Chinese ( Xie Wensheng)|
-|zh-tw|Traditional Chinese ( Po-Yen Huang)|
+|ca|کاتالان (Miquel Puigpelat - هماهنگ کننده جدید مورد نیاز است)|
+|cs|چک (František Kučera)|
+|da|دانمارکی (اریک گراوگارد - هماهنگ کننده جدید مورد نیاز است)|
+|de|آلمانی (Joerg Kohne)|
+|el|یونانی (جورجیوس زرکاداس - هماهنگ کننده جدید مورد نیاز است)|
+|eo|اسپرانتو (Ludovic Courtès - هماهنگ کننده جدید مورد نیاز است)|
+|es|اسپانیایی (دورا سیلیپوتی، خاویر فرناندز رتناگا)|
+|fa|فارسی/فارسی (امین بندلی)|
+|fi|فنلاندی (Ville - هماهنگ کننده جدید مورد نیاز است)|
+|fr|فرانسوی (دنیس باربیه، ترز گودفروی)|
+|he|عبری (هماهنگ کننده جدید مورد نیاز است)|
+|hr|کرواتی (مارتینا ببک - هماهنگ کننده جدید مورد نیاز است)| 
+|id|اندونزیایی (هماهنگ کننده جدید مورد نیاز است)|
+|it|ایتالیایی (Andrea Pescetti)|
+|ja|ژاپنی (NIIBE Yutaka)|
+|ko|کره ای (جونگمین یون)|
+|ku|کردی (نیازمند هماهنگ کننده جدید)|
+|ml|مالایالام (Aiswarya Kaitheri Kandoth)|
+|nb|نروژی بوکمال (آندریاس تولفسن - هماهنگ کننده جدید مورد نیاز است)|
+|nl|هلندی (تام اوییلدرت، جاستین ون اشتاین)|
+|nn|Nynorsk نروژی (آندریاس تولفسن - هماهنگ کننده جدید مورد نیاز است)|
+|pl|لهستانی (Jan Owoc)|        
+|pt-br|پرتغالی برزیل (رافائل فونتنله)|
+|ro|رومانیایی (Tiberiu C. Turbureanu - هماهنگ کننده جدید مورد نیاز است)|
+|ru|روسی (آناتولی آ. کازانتسف، پاول خاریتونوف)|
+|sk|اسلواکی (Dominik Smatana - هماهنگ کننده جدید مورد نیاز است)|
+|sq|آلبانیایی (بسنیک بلتا)|
+|sr|صربی (Strahinya Radich)|
+|ta|تامیل (سری رامادوس - هماهنگ کننده جدید مورد نیاز است)|
+|th|تایلندی (هماهنگ کننده جدید مورد نیاز است)|
+|tl|تاگالوگ (هماهنگ کننده جدید مورد نیاز است)|
+|tr|ترکی (T. E. Kalaycı)|
+|uk|اوکراینی (آندری باندورا)|
+|zh-cn|چینی ساده شده (Xie Wensheng)|
+|zh-tw|چینی سنتی (پو ین هوانگ)|
 
